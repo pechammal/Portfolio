@@ -75,7 +75,24 @@ export default function Home() {
     📄 Download Resume
   </a>
 </section>
-
+<div className="mt-6 flex gap-4">
+  <a
+    href="https://github.com/pechammal"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-block px-4 py-2 bg-gray-800 text-white rounded hover:bg-black"
+  >
+    🔗 GitHub
+  </a>
+  <a
+    href="https://www.linkedin.com/in/pechammal"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="inline-block px-4 py-2 bg-blue-700 text-white rounded hover:bg-blue-800"
+  >
+    🔗 LinkedIn
+  </a>
+</div>
     </div>
   );
 }
