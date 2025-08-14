@@ -6,14 +6,14 @@ export default function Home() {
       <header className="text-center mb-10">
         <h1 className="text-4xl font-bold">Pechammal Vetrivel</h1>
         <p className="text-lg text-gray-600 mt-2">
-          Full Stack Developer | AI Integrator | H-1B Transfer Ready
+          Full Stack Developer | AI Integrator 
         </p>
       </header>
 
       <section className="mb-12">
         <h2 className="text-2xl font-semibold mb-4">About Me</h2>
         <p className="text-gray-700 text-base">
-          I’m a results-driven cloud software engineer with 5+ years of experience in building
+          I’m a results-driven cloud software engineer with years of experience in building
           scalable full-stack applications using MERN stack, Python, and Generative AI. I'm currently
           in the USA on an H-1B visa and available for immediate transfer.
         </p>
